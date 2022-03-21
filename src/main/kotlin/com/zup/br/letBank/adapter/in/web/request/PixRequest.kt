@@ -1,4 +1,4 @@
-package com.zup.br.letBank
+package com.zup.br.letBank.adapter.`in`.web.request
 
 import javax.validation.constraints.Email
 import javax.validation.constraints.NotBlank
